@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+    margin: 0;
+    background-image: linear-gradient(to top, #1C1C1C,#00008B);
+}
+
+.center{
+    align-items: center;
+
+}
+
+input {
+    padding: 5px 10px;
+    margin: 0px;
+    font-size: 12px;
+    cursor: pointer;
+    border: none;
+    background-color:#4682B4;
+    color: white;
+    border-radius: 15px;
+
+}
